@@ -105,6 +105,7 @@ public class Analisador {
                 tokens.add(new TokenRepresent(Token.SIMBOLOS_ESPECIAIS, matcher.group()));
             }
 
+
         }
 
         return tokens;

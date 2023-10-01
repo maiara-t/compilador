@@ -1,6 +1,7 @@
 package classes;
 
 public class TokenRepresent {
+
     private Token tipo;
     private String lexema;
 

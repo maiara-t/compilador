@@ -11,7 +11,6 @@ public enum Token {
     OPERADORES,
     OPERADORES_COMPARACAO,
     SIMBOLOS_ESPECIAIS,
-
 }
 
 
