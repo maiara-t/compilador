@@ -12,7 +12,6 @@ public class TokenRepresent {
         this.tipo= tipo;
         this.lexema = lexema;
     }
-
     public Token getTipo() {
         return tipo;
     }
